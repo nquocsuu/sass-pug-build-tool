@@ -1,0 +1,19 @@
+{
+  "name": "sass-pug-build-tool",
+  "version": "1.0.0",
+  "description": "simple html css build tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nquocsuu/sass-pug-build-tool.git"
+  },
+  "author": "qs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nquocsuu/sass-pug-build-tool/issues"
+  },
+  "homepage": "https://github.com/nquocsuu/sass-pug-build-tool#readme"
+}
